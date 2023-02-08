@@ -1,0 +1,15 @@
+
+{
+"app_title":"قائمة المهام",
+"submit":"اضافه",
+"add Task":"اضف مهمة",
+"add description":"اضف وصف",
+"select date":"اختر تاريخ",
+"delete":"حذف",
+"settings":"الإعدادات" ,
+"theme":"المظهر",
+"language":"اللغه",
+"light":"فاتح",
+"dark":"مظلم",
+"tasks":"المهام"
+}
